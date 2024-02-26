@@ -1,0 +1,10 @@
+.studentsDiv {
+    display: flex;
+    justify-content: space-evenly;
+
+    .student {
+        border: 2px solid aqua;
+        border-radius: 2px;
+        box-shadow: 5px 5px 5px ;
+    }
+}

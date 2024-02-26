@@ -30,6 +30,7 @@
         <textarea name="profile" cols="30" rows="10"></textarea>
         <input type="submit">
     </form>
+    <a href="/students"><-back</a>
 </body>
 
 </html>
